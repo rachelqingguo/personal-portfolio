@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Rachel Guo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rachel
+last_name: Guo
 
 # Status emoji
 status:
@@ -20,167 +17,143 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data & Business Analytics
+
+# Avatar image (ensure this file exists in content/authors/admin/)
+avatar: avatar.jpg
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of California, Davis
+    url: https://gsm.ucdavis.edu/msba
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/rachel-guo0429/
+  - icon: brands/github
+    url: https://github.com/rachelqingguo
+  - icon: at-symbol
+    url: 'mailto:rachelguo0429@gmail.com'
+    label: E-mail Me
 
+# Interests
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analytics
+  - Business Strategy
+  - Machine Learning
+  - Digital Transformation
 
+# Education
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. Business Analytics
+    institution: University of California, Davis
+    date_start: 2024-01-01
+    date_end: 2025-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Selective Courses: Data Management (SQL), Advanced Statistics (R), Machine Learning (Python).
+  - area: M.A. International Finance Policy (Minor in Data Analytics)
+    institution: Columbia University
+    date_start: 2022-09-01
+    date_end: 2024-05-01
     summary: |
-      GPA: 3.8/4.0
+      Coursework combining international finance policy and data analytics.
+  - area: B.S. International Economics
+    institution: Beijing International Studies University
+    date_start: 2017-09-01
+    date_end: 2021-07-01
+    summary: |
+      GPA: 3.8/4.0, Ranked 1st/55. 
+      Government Scholarship Recipient (Top 2%).
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# Work experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Global Business Analyst
+    company_name: The L’Oréal Group
+    date_start: 2023-01-01
+    date_end: 2023-07-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed pricing strategies across 12K SKUs using SQL and WebDriver.
+      - Conducted A/B testing for online promotions across 10 countries, influencing 2023 global strategy.
+      - Built 3 Tableau dashboards integrating 21 datasets to track KPIs and analyze sales growth drivers.
+  - position: Business Intelligence Analyst Assistant
+    company_name: The Estée Lauder Group
+    date_start: 2022-07-01
+    date_end: 2022-12-01
+    summary: |2-
+      - Applied NLP and Random Forest to 4000+ Instagram posts, improving engagement by 5.1%.
+      - Delivered Root Cause Analyses to identify sales drop trends across country, channel, and platform.
+  - position: Data Analyst Intern
+    company_name: TikTok
+    date_start: 2021-03-01
+    date_end: 2021-07-01
+    summary: |2-
+      - Automated SQL data pipelines, reducing manual labor by 33% weekly.
+      - Engineered features from 80K ad records, achieving 98% data accuracy in advertiser analysis.
+
+# Projects
+project:
+  - position: Graduate Consultant
+    company_name: J.P. Morgan
+    date_start: 2023-09-01
+    date_end: 2024-05-01
+    summary: |2-
+      - Conducted research on spillover effects of digital transformation across 219 countries.
+      - Presented 7 investment recommendations to the J.P. Morgan senior leadership.
+  - position: Data Programming Lead
+    company_name: Columbia Impact Investing Initiative
+    date_start: 2023-10-01
+    date_end: 2024-04-01
+    summary: |2-
+      - Led a 20-person team to extract sentiments from 1000+ public letters using Python NLP libraries.
+      - Identified potential investment opportunities for 2 venture capital clients.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Python (Scikit-learn, NLTK)
+        description: Predictive Modeling, Sentiment Analysis
+        percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: SQL
-        description: ''
-        percent: 40
+        description: Database Processing and Analytics
+        percent: 85
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Tableau / PowerBI
+        description: Data Visualization
         percent: 80
-        icon: camera
+        icon: chart-bar
+      - name: Machine Learning
+        description: Clustering, Hypothesis Testing, Predictive Modeling
+        percent: 75
+        icon: brain-circuit
 
+# Languages
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese (Mandarin)
+    percent: 95
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Government Scholarship (Top 2%)
+    date: '2020-09-01'
+    awarder: Beijing International Studies University
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded based on outstanding academic achievement and leadership.
+  - title: 1st Place - MIB International Business Simulation Contest
+    date: '2019-05-01'
+    awarder: Beijing International Studies University
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Ranked top 5% among participating teams.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Rachel!  
+I specialize in blending business strategy with data science to drive actionable insights.  
+With professional experiences at L'Oréal, Estée Lauder, and TikTok, I focus on pricing strategy, market analytics, and predictive modeling.  
+Currently, I'm pursuing my M.S. in Business Analytics at UC Davis and actively applying machine learning techniques in real-world business challenges.
