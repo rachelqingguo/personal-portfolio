@@ -4,7 +4,7 @@ date: 2024-04-28
 external_link: https://github.com/rachelqingguo/NeuroPolis
 featured: true   # ← ADD THIS LINE
 image:
-  filename: "project/NeuroPolis/featured.png"
+  filename: "project/neuro-polis/featured.png"
   preview_only: false
 tags:
   - AI
