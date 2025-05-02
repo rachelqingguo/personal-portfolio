@@ -1,17 +1,17 @@
 ---
-title: "Electronic Vehicles Analysis"
+title: "Sales & Profit Performance Dashboard"
 date: 2025-05-02
 external_link: https://github.com/rachelqingguo/Eletronic-Vehicles-Analysis
 featured: true
 image:
-  filename: "project/electronic-vehicles/featured.png"
+  filename: "project/sales-dashboard/featured.png"
   preview_only: false
 tags:
   - Tableau
-  - Dashboard
-  - EV Market
+  - Business Analytics
+  - Sales Strategy
 ---
 
-An interactive dashboard analyzing electric vehicle adoption, manufacturer trends, and market dynamics using Tableau. It helps uncover regional EV performance and key growth patterns.
+This Tableau dashboard visualizes sales and profit trends across product categories, regions, and time. It helps uncover underperforming segments, guides strategic pricing and discounting decisions, and supports executives in driving revenue growth.
 
 <!--more-->
