@@ -1,15 +1,17 @@
 ---
-title: "Electronic Vehicles Analysis"
-date: 2024-05-02
-summary: "An interactive data exploration of the global EV market using Tableau dashboards."
-external_link: "https://github.com/rachelqingguo/Eletronic-Vehicles-Analysis"
+title: "Electric Vehicles Analysis"
+date: 2025-05-02
+external_link: https://github.com/rachelqingguo/Eletronic-Vehicles-Analysis
+featured: true
 image:
-  filename: "featured.png"
+  filename: "project/electronic-vehicles/featured.png"
   preview_only: false
 tags:
   - Tableau
-  - Data Visualization
+  - Dashboard
   - EV Market
 ---
 
-This project analyzes global electric vehicle data and visualizes trends in EV adoption, sales, and infrastructure using Tableau dashboards.
+This interactive dashboard analyzes electric vehicle sales and trends across manufacturers and countries. Built in Tableau, it uncovers regional market performance, highlights top-selling models, and helps interpret the dynamics driving global EV adoption.
+
+<!--more-->
