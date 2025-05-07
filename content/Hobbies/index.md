@@ -27,15 +27,8 @@ These experiences deepened my belief that business, when done right, can be a po
 
 ### 📸 Photo Highlights
 
-| ![Scuba Diving](../assets/media/hobbies/diving.png) | ![Hitchhiking across France](../assets/media/hobbies/hitchhiking.png) |
-|:--:|:--:|
-| *Diving in remote reefs* | *2-week hitchhike from Paris to southern France (2,000+ km)* |
-
-| ![Stanford HBV Project](../assets/media/hobbies/standford.png) | ![Cultural Exchange in Czech Republic](../assets/media/hobbies/czechrepublic.png) |
-|:--:|:--:|
-| *Leading HBV advocacy in China for Stanford ALC* | *Running cultural workshops with volunteers from 7 countries* |
-
-| ![G20 Brazil](../assets/media/hobbies/brazil.png) |
-|:--:|
-| *Representing the 2024 G20 Capstone Research Team in Brazil* |
+| ![Scuba Diving](/media/hobbies/diving.png) <br> _Diving in remote reefs_ | ![Hitchhiking](/media/hobbies/hitchhiking.png) <br> _2-week hitchhike from Paris to southern France (2,000+ km)_ |
+|:---:|:---:|
+| ![Stanford HBV](/media/hobbies/standford.png) <br> _Stanford Asian Liver Center – HBV Awareness Campaign_ | ![Czech Exchange](/media/hobbies/czechrepublic.png) <br> _Cultural exchange workshops in Czech Republic_ |
+| ![G20 Brazil](/media/hobbies/brazil.png) <br> _Representing youth policy team at G20 Brazil 2024_ |  |
 """
