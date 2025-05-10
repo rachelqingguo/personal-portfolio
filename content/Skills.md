@@ -13,7 +13,9 @@ sections:
       text: A snapshot of the technical areas I specialize in — from analytics and machine learning to data infrastructure.
       filters:
         folders:
-          - Skills
+          - Skills/Data-Analytics
+          - Skills/Machine-Learning
+          - Skills/Database-Cloud
     design:
       view: article-grid
       fill_image: false
