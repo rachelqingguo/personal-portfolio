@@ -13,7 +13,7 @@ sections:
       text: A snapshot of the technical areas I specialize in — from analytics and machine learning to data infrastructure.
       filters:
         folders:
-          - skills
+          - Skills
     design:
       view: article-grid
       fill_image: false
