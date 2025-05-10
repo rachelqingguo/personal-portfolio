@@ -1,17 +1,19 @@
 ---
 title: "Data Analytics"
 date: 2025-05-10
+external_link: ""
 featured: true
 image:
-  filename: "Skills/Data-Analytics/DataAnalytics.png"
+  filename: "skills/Data-Analytics/featured.png"
   preview_only: false
 tags:
   - A/B Testing
   - Tableau
   - Power BI
+  - Google Analytics
   - Excel
 ---
 
-A/B Testing, Causal Inference, Tableau, Power BI, Google Analytics, Microsoft Excel 
+Core skills include A/B Testing, Causal Inference, and working with BI tools like Tableau, Power BI, Google Analytics, and Microsoft Excel to draw actionable insights from data.
 
 <!--more-->
