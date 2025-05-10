@@ -4,7 +4,7 @@ date: 2025-05-10
 external_link: ""
 featured: true
 image:
-  filename: "skills/Data-Analytics/featured.png"
+  filename: "Skills/Data-Analytics/featured.png"
   preview_only: false
 tags:
   - A/B Testing

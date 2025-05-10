@@ -4,16 +4,16 @@ date: 2025-05-10
 external_link: ""
 featured: true
 image:
-  filename: "skills/Machine-Learning/featured.png"
+  filename: "Skills/Machine-Learning/featured.png"
   preview_only: false
 tags:
   - Python
   - R
-  - SPSS
-  - Clustering
   - Predictive Modeling
+  - SPSS
 ---
 
-Skilled in building predictive models, hypothesis testing, and clustering analysis using Python, R, and SPSS. I use machine learning tools to uncover patterns and optimize decisions from complex data.
+**Build smart, scalable models that uncover insights.**  
+Experienced in predictive modeling, clustering, and hypothesis testing using Python, R, and SPSS.
 
 <!--more-->
