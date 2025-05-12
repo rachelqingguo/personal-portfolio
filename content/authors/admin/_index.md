@@ -137,7 +137,7 @@ languages:
     percent: 95
 
 # Awards
-awards:
+Awards & Certificate:
   - title: Bronze Beacon Award & Best Mixed Team – AggieHacks
     date: '2025-04-01'
     awarder: UC Davis Graduate School of Management
