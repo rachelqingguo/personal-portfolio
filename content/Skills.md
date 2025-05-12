@@ -10,27 +10,21 @@ sections:
   - block: markdown
     content:
       title: 💡 Core Skills
-      text: |
-        Here’s a snapshot of my technical skills — covering analytics, machine learning, and cloud data processing.
-  - block: skill
+      text: A snapshot of my technical strengths — analytics, machine learning, and data infrastructure.
+  - block: features
     content:
-      title: Technical Skills
-      skills:
-        - name: Python (Scikit-learn, NLTK)
-          description: Predictive Modeling, Sentiment Analysis
-          percent: 90
+      items:
+        - title: Python (Scikit-learn, NLTK)
+          content: Predictive Modeling, Sentiment Analysis
           icon: code-bracket
-        - name: SQL
-          description: Database Processing and Analytics
-          percent: 85
+        - title: SQL
+          content: Database Processing and Analytics
           icon: circle-stack
-        - name: Tableau / Power BI
-          description: Data Visualization
-          percent: 80
+        - title: Tableau / Power BI
+          content: Data Visualization
           icon: chart-bar
-        - name: Machine Learning
-          description: Clustering, Hypothesis Testing, Predictive Modeling
-          percent: 75
+        - title: Machine Learning
+          content: Clustering, Hypothesis Testing, Predictive Modeling
           icon: brain-circuit
 ---
 
