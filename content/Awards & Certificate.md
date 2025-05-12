@@ -1,5 +1,5 @@
 ---
-title: 'Awards & Certificate'
+title: 'Awards'
 date: 2025-05-10
 type: landing
 
@@ -7,7 +7,7 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: resume-Awards & Certificate
+  - block: resume-Awards
     content:
       username: admin
     design:
