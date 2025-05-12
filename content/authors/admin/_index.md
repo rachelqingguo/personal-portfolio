@@ -138,16 +138,48 @@ languages:
 
 # Awards
 awards:
+  - title: Bronze Beacon Award & Best Mixed Team – AggieHacks
+    date: '2025-04-01'
+    awarder: UC Davis Graduate School of Management
+    summary: |
+      Earned dual awards for building NeuroPolis, an AI-powered cascading disaster detection system.
+
+  - title: 3rd Runner-Up – NeuroPolis Hackathon Project
+    date: '2025-04-01'
+    awarder: UC Davis AggieHack
+    summary: |
+      Recognized for innovation and execution in developing a real-time crisis intelligence platform.
+
+  - title: Merit Scholarship
+    date: '2024-01-01'
+    awarder: UC Davis MSBA Program
+    summary: |
+      Awarded merit-based scholarship for academic excellence and leadership potential.
+
+  - title: Data Analytics Credential
+    date: '2021-03-01'
+    awarder: University of Chicago
+    summary: |
+      Credential earned for completing advanced coursework in data analytics and visualization.
+
+  - title: Statistics with R
+    date: '2020-10-01'
+    awarder: Coursera
+    summary: |
+      Completed foundational training in statistical analysis using R.
+
   - title: Government Scholarship (Top 2%)
     date: '2020-09-01'
     awarder: Beijing International Studies University
     summary: |
       Awarded based on outstanding academic achievement and leadership.
+
   - title: 1st Place - MIB International Business Simulation Contest
     date: '2019-05-01'
     awarder: Beijing International Studies University
     summary: |
       Ranked top 5% among participating teams.
+
 
 ---
 
