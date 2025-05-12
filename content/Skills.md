@@ -10,8 +10,10 @@ sections:
   - block: markdown
     content:
       title: 💡 Core Skills
-      text: A snapshot of my technical strengths — analytics, machine learning, and data infrastructure.
+
   - block: features
+    design:
+      columns: 3
     content:
       items:
         - title: Python (Scikit-learn, NLTK)
