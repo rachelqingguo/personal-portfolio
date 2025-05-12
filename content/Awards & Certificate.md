@@ -1,5 +1,5 @@
 ---
-title: 'Awards'
+title: 'Awards & Certificate'
 date: 2025-05-10
 type: landing
 
