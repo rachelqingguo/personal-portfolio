@@ -17,7 +17,7 @@ main:
     url: skills/
     weight: 40
   - name: Awards & Certificate
-    url: Awards/
+    url: Awards & Certificate/
     weight: 40
   - name: Hobbies
     url: hobbies/
