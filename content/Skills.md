@@ -1,23 +1,36 @@
 ---
-title: 'Skills'
+title: "Skills"
 date: 2025-05-10
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: "5rem"
 
 sections:
-  - block: collection
+  - block: markdown
     content:
-      title: Core Skills
-      text: A snapshot of the technical areas I specialize in — from analytics and machine learning to data infrastructure.
-      filters:
-        folders:
-          - Skills/Data-Analytics
-          - Skills/Machine-Learning
-          - Skills/Database-Cloud
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      title: 💡 Core Skills
+      text: |
+        Here’s a snapshot of my technical skills — covering analytics, machine learning, and cloud data processing.
+  - block: skill
+    content:
+      title: Technical Skills
+      skills:
+        - name: Python (Scikit-learn, NLTK)
+          description: Predictive Modeling, Sentiment Analysis
+          percent: 90
+          icon: code-bracket
+        - name: SQL
+          description: Database Processing and Analytics
+          percent: 85
+          icon: circle-stack
+        - name: Tableau / Power BI
+          description: Data Visualization
+          percent: 80
+          icon: chart-bar
+        - name: Machine Learning
+          description: Clustering, Hypothesis Testing, Predictive Modeling
+          percent: 75
+          icon: brain-circuit
 ---
+
