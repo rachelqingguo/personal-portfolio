@@ -9,7 +9,7 @@ design:
 sections:
   - block: resume-awards
     content:
-      title: 💡 Awards & Certificate
+      title: 💡 Awards & Certificates
       username: admin
     design:
       show_skill_percentage: false
