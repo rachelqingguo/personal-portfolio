@@ -7,7 +7,7 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: resume-Awards
+  - block: resume-awards
     content:
       username: admin
     design:
