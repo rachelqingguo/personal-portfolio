@@ -143,12 +143,13 @@ Awards:
     awarder: UC Davis Graduate School of Management
     summary: |
       Earned dual awards for building NeuroPolis, an AI-powered cascading disaster detection system.
-
+      [View on LinkedIn](https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
   - title: 3rd Runner-Up – NeuroPolis Hackathon Project
     date: '2025-04-01'
     awarder: UC Davis AggieHack
     summary: |
       Recognized for innovation and execution in developing a real-time crisis intelligence platform.
+      [View on LinkedIn](https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
 
   - title: Merit Scholarship
     date: '2024-01-01'
@@ -161,6 +162,7 @@ Awards:
     awarder: University of Chicago
     summary: |
       Credential earned for completing advanced coursework in data analytics and visualization.
+      [View Certificate](https://drive.google.com/file/d/1pGHWVuM_SKOoK05gF8TgQBE6qNhpvqYQ/view?usp=sharing)
 
   - title: Statistics with R
     date: '2020-10-01'
