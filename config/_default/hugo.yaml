@@ -54,3 +54,9 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+footer:
+  builder:
+    enable: false
+  copyright:
+    notice: "© 2025 Rachel Guo. All rights reserved."
+
