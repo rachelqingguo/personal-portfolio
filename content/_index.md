@@ -11,10 +11,7 @@ sections:
   - block: resume-biography-3
     content:
       username: admin
-      text: ""
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      text: "" 
     design:
       css_class: dark
       background:
