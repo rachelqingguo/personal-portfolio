@@ -126,12 +126,6 @@ skills:
         percent: 75
         icon: brain-circuit
 
-# Languages
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese (Mandarin)
-    percent: 95
 
 # Awards
 awards:
@@ -170,4 +164,12 @@ awards:
     awarder: Beijing International Studies University
     summary: |
       Ranked top 5% among participating teams.
+
 ---
+
+## About Me
+
+Hi, I'm Rachel!  
+I specialize in blending business strategy with data science to drive actionable insights.  
+With professional experiences at L'Oréal, Estée Lauder, and TikTok, I focus on pricing strategy, market analytics, and predictive modeling.  
+Currently, I'm pursuing my M.S. in Business Analytics at UC Davis and actively applying machine learning techniques in real-world business challenges.
