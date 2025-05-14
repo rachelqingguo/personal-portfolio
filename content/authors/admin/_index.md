@@ -134,6 +134,7 @@ awards:
     awarder: UC Davis Graduate School of Management
     summary: |
       Recognized for building NeuroPolis, an AI-powered cascading disaster detection system.
+    [View on LinkedIn](https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
   - title: 3rd Runner-Up – NeuroPolis Hackathon Project
     date: '2025-04-01'
     awarder: UC Davis AggieHack
@@ -149,6 +150,7 @@ awards:
     awarder: University of Chicago
     summary: |
       Completed advanced coursework on analytics methods and real-world application.
+    [View Certificate](https://drive.google.com/file/d/1pGHWVuM_SKOoK05gF8TgQBE6qNhpvqYQ/view?usp=sharing)
   - title: Statistics with R
     date: '2020-10-01'
     awarder: Coursera
@@ -171,5 +173,5 @@ awards:
 
 Hi, I'm Rachel!  
 I specialize in blending business strategy with data science to drive actionable insights.  
-With professional experiences at L'Oréal, Estée Lauder, and TikTok, I focus on pricing strategy, market analytics, and predictive modeling.  
-Currently, I'm pursuing my M.S. in Business Analytics at UC Davis and actively applying machine learning techniques in real-world business challenges.
+With professional experiences at Amazon Whole Foods, L'Oréal, Estée Lauder, and TikTok, I focus on market analytics,business strategy, and customer insight.  
+Currently, I'm pursuing my M.S. in Business Analytics at UC Davis and actively applying data and business analytics techniques in real-world business challenges.
