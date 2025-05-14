@@ -9,7 +9,7 @@ design:
 sections:
   - block: resume-skills
     content:
-      title: 💡 Core Skills
+      title: 💡 Core Skill
       username: admin
     design:
       show_skill_percentage: false
