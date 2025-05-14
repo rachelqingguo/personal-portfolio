@@ -20,7 +20,7 @@ highlight_name: true
 role: Data & Business Analytics
 
 # Avatar image (ensure this file exists in content/authors/admin/)
-avatar: avatar.jpg
+avatar: /uploads/avatar.jpg
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -138,49 +138,38 @@ languages:
 
 # Awards
 Awards:
-  - title: Bronze Beacon Award & Best Mixed Team – AggieHacks
-    date: '2025-04-01'
-    awarder: UC Davis Graduate School of Management
+  - title: 2nd Runner-Up & Bronze Beacon Award & Best Mixed Team – AggieHacks
+    awarder: UC Davis Graduate School of Management, Structured Lab
     summary: |
-      Earned dual awards for building NeuroPolis, an AI-powered cascading disaster detection system.
-      [View on LinkedIn](https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
-  - title: 3rd Runner-Up – NeuroPolis Hackathon Project
-    date: '2025-04-01'
-    awarder: UC Davis AggieHack
-    summary: |
-      Recognized for innovation and execution in developing a real-time crisis intelligence platform.
+      Earned two awards for building NeuroPolis, an AI-powered cascading disaster detection system. Recognized for innovation and execution in developing a real-time crisis intelligence platform.
       [View on LinkedIn](https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
 
   - title: Merit Scholarship
-    date: '2024-01-01'
-    awarder: UC Davis MSBA Program
+    awarder: UC Davis Graduate School of Management
     summary: |
       Awarded merit-based scholarship for academic excellence and leadership potential.
 
   - title: Data Analytics Credential
-    date: '2021-03-01'
     awarder: University of Chicago
     summary: |
       Credential earned for completing advanced coursework in data analytics and visualization.
       [View Certificate](https://drive.google.com/file/d/1pGHWVuM_SKOoK05gF8TgQBE6qNhpvqYQ/view?usp=sharing)
 
+  - title: 1st Place - MIB International Business Simulation Contest
+    awarder: Beijing International Studies University
+    summary: |
+      Ranked top 5% among participating teams.
+
   - title: Statistics with R
-    date: '2020-10-01'
     awarder: Coursera
     summary: |
       Completed foundational training in statistical analysis using R.
 
   - title: Government Scholarship (Top 2%)
-    date: '2020-09-01'
     awarder: Beijing International Studies University
     summary: |
       Awarded based on outstanding academic achievement and leadership.
 
-  - title: 1st Place - MIB International Business Simulation Contest
-    date: '2019-05-01'
-    awarder: Beijing International Studies University
-    summary: |
-      Ranked top 5% among participating teams.
 
 
 ---
