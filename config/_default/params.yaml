@@ -38,14 +38,18 @@ header:
       text: "Rachel Guo"
 
 # Site footer
+# Site footer
 footer:
   copyright:
-    notice: '"© 2025 Rachel Guo. All rights reserved."'
+    notice: "© 2025 Rachel Guo. All rights reserved."
     license:
       enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  builder:
+    enable: false
+
 
 # Localization
 locale:
