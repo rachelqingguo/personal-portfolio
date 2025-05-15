@@ -130,7 +130,6 @@ skills:
 # Awards
 awards:
   - title: AggieHackathon – 2nd Runner-Up & Best Mixed Team
-    date: '2025-04-01'
     awarder: UC Davis Graduate School of Management
     summary: |
       Recognized for building NeuroPolis, an AI-powered cascading disaster detection system.  
