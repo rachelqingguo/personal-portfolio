@@ -129,46 +129,36 @@ skills:
 
 # Awards
 awards:
-  - title: AggieHackathon – Bronze Beacon & Best Mixed Team
+  - title: AggieHackathon – 2nd Runner-Up & Best Mixed Team
     date: '2025-04-01'
     awarder: UC Davis Graduate School of Management
     summary: |
       Recognized for building NeuroPolis, an AI-powered cascading disaster detection system.  
       [View on LinkedIn](https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
 
-  - title: 3rd Runner-Up – NeuroPolis Hackathon Project
-    date: '2025-04-01'
-    awarder: UC Davis AggieHack
-    summary: |
-      Acknowledged for innovative disaster modeling and real-time AI simulation.
 
   - title: Merit Scholarship Recipient
-    date: '2024-12-01'
     awarder: UC Davis MSBA
     summary: |
       Awarded for academic excellence and leadership in the business analytics program.
 
   - title: Data Analytics Credential
-    date: '2021-03-01'
     awarder: University of Chicago
     summary: |
-      Completed advanced coursework on analytics methods and real-world application.  
+      Completed advanced coursework at Uchicago on analytics methods and real-world application.  
       [View Certificate](https://drive.google.com/file/d/1pGHWVuM_SKOoK05gF8TgQBE6qNhpvqYQ/view?usp=sharing)
 
   - title: Statistics with R
-    date: '2020-10-01'
     awarder: Coursera
     summary: |
       Covered statistical inference, hypothesis testing, and regression modeling.
 
   - title: Government Scholarship (Top 2%)
-    date: '2020-09-01'
     awarder: Beijing International Studies University
     summary: |
       Awarded based on outstanding academic achievement and leadership.
 
   - title: 1st Place - MIB International Business Simulation Contest
-    date: '2019-05-01'
     awarder: Beijing International Studies University
     summary: |
       Ranked top 5% among participating teams.
