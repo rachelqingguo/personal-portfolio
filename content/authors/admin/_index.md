@@ -52,7 +52,7 @@ education:
     date_end: 2025-08-01
     summary: |
       Selective Courses: Data Management (SQL), Advanced Statistics (R), Machine Learning (Python).
-  - area: M.A. International Finance Policy (Minor in Data Analytics)
+  - area: M.A. International Economics & Finance Policy (Minor in Data Analytics)
     institution: Columbia University
     date_start: 2022-09-01
     date_end: 2024-05-01
@@ -76,7 +76,7 @@ work:
       - Developed pricing strategies across 12K SKUs using SQL and WebDriver.
       - Conducted A/B testing for online promotions across 10 countries, influencing 2023 global strategy.
       - Built 3 Tableau dashboards integrating 21 datasets to track KPIs and analyze sales growth drivers.
-  - position: Business Intelligence Analyst Assistant
+  - position: EMEA Consumer Marketing & CRM Assistant
     company_name: The Estée Lauder Group
     date_start: 2022-07-01
     date_end: 2022-12-01
