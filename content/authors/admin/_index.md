@@ -6,36 +6,33 @@ title: Rachel Guo
 first_name: Rachel
 last_name: Guo
 
-# Status emoji
-status:
-  icon: ☕️
+# Avatar image (must be placed in `content/authors/admin/avatar.jpg`)
+avatar: avatar.jpg
+
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author name in author lists?
 highlight_name: true
 
-# Role/position/tagline
+# Role or tagline shown on homepage
 role: Data & Business Analytics
 
-# Avatar image (ensure this file exists in content/authors/admin/)
-avatar: avatar.jpg
-
-# Organizations/Affiliations to display in Biography blox
+# Organizations (e.g. university or employer)
 organizations:
   - name: University of California, Davis
     url: https://gsm.ucdavis.edu/msba
 
-# Social network links
+# Social links
 profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rachel-guo0429/
   - icon: brands/github
     url: https://github.com/rachelqingguo
   - icon: at-symbol
-    url: 'mailto:rachelguo0429@gmail.com'
-    label: E-mail Me
+    url: mailto:rachelguo0429@gmail.com
+    label: Email Me
 
 # Interests
 interests:
@@ -120,7 +117,7 @@ skills:
         description: Database Processing and Analytics
         percent: 85
         icon: circle-stack
-      - name: Tableau / PowerBI
+      - name: Tableau / Power BI
         description: Data Visualization
         percent: 80
         icon: chart-bar
@@ -129,25 +126,42 @@ skills:
         percent: 75
         icon: brain-circuit
 
-# Languages
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese (Mandarin)
-    percent: 95
 
 # Awards
 awards:
+  - title: AggieHackathon – 2nd Runner-Up & Best Mixed Team
+    awarder: UC Davis Graduate School of Management
+    summary: |
+      Recognized for building NeuroPolis, an AI-powered cascading disaster detection system.  
+      [View on LinkedIn](https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
+
+
+  - title: Merit Scholarship Recipient
+    awarder: UC Davis MSBA
+    summary: |
+      Awarded for academic excellence and leadership in the business analytics program.
+
+  - title: Data Analytics Credential
+    awarder: University of Chicago
+    summary: |
+      Completed advanced coursework at Uchicago on analytics methods and real-world application.  
+      [View Certificate](https://drive.google.com/file/d/1pGHWVuM_SKOoK05gF8TgQBE6qNhpvqYQ/view?usp=sharing)
+
+  - title: Statistics with R
+    awarder: Coursera
+    summary: |
+      Covered statistical inference, hypothesis testing, and regression modeling.
+
   - title: Government Scholarship (Top 2%)
-    date: '2020-09-01'
     awarder: Beijing International Studies University
     summary: |
       Awarded based on outstanding academic achievement and leadership.
+
   - title: 1st Place - MIB International Business Simulation Contest
-    date: '2019-05-01'
     awarder: Beijing International Studies University
     summary: |
       Ranked top 5% among participating teams.
+
 
 ---
 
@@ -155,5 +169,9 @@ awards:
 
 Hi, I'm Rachel!  
 I specialize in blending business strategy with data science to drive actionable insights.  
-With professional experiences at L'Oréal, Estée Lauder, and TikTok, I focus on pricing strategy, market analytics, and predictive modeling.  
-Currently, I'm pursuing my M.S. in Business Analytics at UC Davis and actively applying machine learning techniques in real-world business challenges.
+With professional experiences at Amazon Whole Foods, L'Oréal, Estée Lauder, and TikTok, I focus on market analytics,business strategy, and customer insight.  
+Currently, I'm pursuing my M.S. in Business Analytics at UC Davis and actively applying data and business analytics techniques in real-world business challenges.
+
+
+[def]: https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc
+[def2]: https://drive.google.com/file/d/1pGHWVuM_SKOoK05gF8TgQBE6qNhpvqYQ/view?usp=sharing
