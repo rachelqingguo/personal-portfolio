@@ -50,7 +50,8 @@ education:
     date_start: 2024-01-01
     date_end: 2025-08-01
     summary: |
-      Selective Courses: Data Management (SQL), Advanced Statistics (R), Machine Learning (Python).
+      Selective Courses: Data Management (SQL), Advanced Statistics (R), Machine Learning (Python), AWS Cloud Foundation.
+
   - area: M.A. International Economics & Finance Policy (Minor in Data Analytics)
     institution: Columbia University
     date_start: 2022-09-01
@@ -58,6 +59,8 @@ education:
     summary: |
       GPA: 3.9/4.0.
       Coursework combining international finance policy and data analytics.
+      Courses: International Trade, Public Finance, Applied Econometrics, Python for Policy, Cost-Benefit Analysis, Development Economics.
+
   - area: B.S. International Economics
     institution: Beijing International Studies University
     date_start: 2017-09-01
@@ -65,6 +68,8 @@ education:
     summary: |
       GPA: 3.8/4.0, Ranked 1st/55. 
       Government Scholarship Recipient (Top 2%).
+      Courses: Game Theory, Financial Mathematics, Microeconomics, Macroeconomics, Global Trade & Policy, Econometrics.
+
 
 # Work experience
 work:
