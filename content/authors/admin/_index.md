@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role or tagline shown on homepage
-role: Data & Business Analytics
+role: Business, Data and Product Analytics
 
 # Organizations (e.g. university or employer)
 organizations:
@@ -38,8 +38,10 @@ profiles:
 interests:
   - Data Analytics
   - Business Strategy
-  - Machine Learning
+  - Product Analytics
+  - Customer Analytics
   - Digital Transformation
+
 
 # Education
 education:
@@ -54,6 +56,7 @@ education:
     date_start: 2022-09-01
     date_end: 2024-05-01
     summary: |
+      GPA: 3.9/4.0.
       Coursework combining international finance policy and data analytics.
   - area: B.S. International Economics
     institution: Beijing International Studies University
@@ -65,28 +68,42 @@ education:
 
 # Work experience
 work:
-  - position: Global Business Analyst
+  - position: Incoming Data Analytics & Business Insight Intern
+    company_name: Amazon Whole Foods Market
+    date_start: June 2025
+    date_end: Aug 2025
+
+  - position: Data Scientist (Practicum)
+    company_name: The Best Notary
+    date_start: Aug 2024
+    date_end: June 2025
+    summary: |2-
+      - Transformed 8 static Excel sheets into real-time Google Looker dashboards with 20+ custom metrics, reducing manual reporting by 30%.
+      - Built Python/SQL pipelines to scrape, unify, and integrate public notary records from 15+ U.S. states, improving match accuracy by 15%.
+
+  - position: Global Business Strategy & Data Analyst
     company_name: The L’Oréal Group
-    date_start: 2023-01-01
-    date_end: 2023-07-01
+    date_start: Jan 2023
+    date_end: Jul 2023
     summary: |2-
-      - Developed pricing strategies across 12K SKUs using SQL and WebDriver.
-      - Conducted A/B testing for online promotions across 10 countries, influencing 2023 global strategy.
-      - Built 3 Tableau dashboards integrating 21 datasets to track KPIs and analyze sales growth drivers.
-  - position: EMEA Consumer Marketing & CRM Assistant
+      - Developed pricing strategies with Finance and Engineering; performed ETL using SQL and WebDriver across 12K SKUs.
+      - Ran A/B tests on sample distribution across 10 countries to inform global promotional strategy for 2023.
+
+  - position: CRM & Marketing Assistant
     company_name: The Estée Lauder Group
-    date_start: 2022-07-01
-    date_end: 2022-12-01
+    date_start: Jul 2022
+    date_end: Dec 2022
     summary: |2-
-      - Applied NLP and Random Forest to 4000+ Instagram posts, improving engagement by 5.1%.
-      - Delivered Root Cause Analyses to identify sales drop trends across country, channel, and platform.
+      - Supported 10+ global CRM campaigns using Salesforce, optimizing customer lifecycles and loyalty program activations.
+      - Applied NLP to 4,000+ Instagram posts and uncovered 6 key engagement drivers, boosting engagement by 5.1%.
+
   - position: Data Analyst Intern
-    company_name: TikTok
-    date_start: 2021-03-01
-    date_end: 2021-07-01
+    company_name: TikTok Advertising
+    date_start: Mar 2021
+    date_end: Jul 2021
     summary: |2-
-      - Automated SQL data pipelines, reducing manual labor by 33% weekly.
-      - Engineered features from 80K ad records, achieving 98% data accuracy in advertiser analysis.
+      - Analyzed media sales performance for 200+ advertisers by processing 80K+ records in SQL; derived insights into spend and engagement.
+      - Automated data pipelines with SQL and Excel Macros, enabling self-service analytics and cutting manual hours by 33% weekly.
 
 # Projects
 project:
@@ -153,7 +170,6 @@ awards:
       Awarded for co-creating PitchSense, an AI fundraising copilot that matches startup founders with VCs and generates personalized cold emails.  
       [View on LinkedIn](https://www.linkedin.com/posts/chaitanyakhot_agenthacks-mostimpactful-agenticai-ugcPost-7333328531906572288-UG3k?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
 
-awards:
   - title: AggieHackathon – 2nd Runner-Up & Best Mixed Team
     awarder: UC Davis Graduate School of Management
     summary: |
