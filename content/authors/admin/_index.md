@@ -126,8 +126,33 @@ skills:
         percent: 75
         icon: brain-circuit
 
+  - name: Soft Skills
+    items:
+      - name: Cross-functional Collaboration
+        description: Experience working across business, tech, and design teams
+        percent: 95
+        icon: users
+      - name: Execution Under Pressure
+        description: Delivering outcomes in fast-paced environments
+        percent: 90
+        icon: bolt
+      - name: User Empathy & Product Sense
+        description: Intuition for user needs and product improvement
+        percent: 85
+        icon: lightbulb
+      - name: Bilingual (EN & CN)
+        description: Professional fluency in English and Mandarin
+        percent: 100
+        icon: globe
 
 # Awards
+awards:
+  - title: AgentHack 2025 – Most Impact Award 
+    awarder: AgentHack (Bay Area’s Largest Agentic Hackathon)
+    summary: |
+      Awarded for co-creating PitchSense, an AI fundraising copilot that matches startup founders with VCs and generates personalized cold emails.  
+      [View on LinkedIn](https://www.linkedin.com/posts/chaitanyakhot_agenthacks-mostimpactful-agenticai-ugcPost-7333328531906572288-UG3k?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc)
+
 awards:
   - title: AggieHackathon – 2nd Runner-Up & Best Mixed Team
     awarder: UC Davis Graduate School of Management
@@ -167,10 +192,13 @@ awards:
 
 ## About Me
 
-Hi, I'm Rachel!  
-I specialize in blending business strategy with data science to drive actionable insights.  
-With professional experiences at Amazon Whole Foods, L'Oréal, Estée Lauder, and TikTok, I focus on market analytics,business strategy, and customer insight.  
-Currently, I'm pursuing my M.S. in Business Analytics at UC Davis and actively applying data and business analytics techniques in real-world business challenges.
+Hi, I’m Rachel Guo! I’m currently wrapping up my Master’s in Business Analytics at UC Davis, with a focus on using data and AI to solve real-world business problems. Before this, I studied international economics at Columbia University and have worked in both global companies like L’Oréal and Estée Lauder, as well as startups like TikTok and The Best Notary where I took on multiple responsibilities.
+
+I’ve lived and worked across the U.S. (New York, San Francisco and San Diego), Paris, and Beijing, and traveled to over 25 countries—which has shaped how I approach problems with both structure and empathy. Some of my favorite experiences include volunteering in Tanzania and the Czech Republic, where I helped with youth education and cultural exchange programs.
+
+I co-created PitchSense, an AI tool that connects startup founders with investors, which was recognized with the Most Impactful Award at AgentHack — the largest agentic hackathon in the Bay Area. I also helped develop NeuroPolis, a disaster prediction and crisis response platform that earned 2nd runner-up awards at UC Davis’s AggieHacks. Whether it’s building dashboards, modeling campaign performance, or translating complex data into actionable insights, I’m driven to create tools that are not just intelligent, but genuinely useful.
+
+Outside of work, I enjoy hiking, painting, reading, and traveling.  Feel free to check out my porfortlio for more!
 
 
 [def]: https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc
