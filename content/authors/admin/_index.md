@@ -142,6 +142,10 @@ skills:
         description: Clustering, Hypothesis Testing, Predictive Modeling
         percent: 75
         icon: brain-circuit
+      - name: AI Applications
+        description: Prompt Engineering, NLP, Generative AI Integration
+        percent: 80
+        icon: sparkles
 
   - name: Soft Skills
     items:
