@@ -68,39 +68,40 @@ education:
 
 # Work experience
 work:
-  - position: Incoming Data Analytics & Business Insight Intern
+  - position: Incoming Analytics & Business Insight Intern
     company_name: Amazon Whole Foods Market
-    date_start: June 2025
-    date_end: Aug 2025
+    date_start: 2025-06-01
+    date_end: 2025-08-01
+    
 
   - position: Data Scientist (Practicum)
     company_name: The Best Notary
-    date_start: Aug 2024
-    date_end: June 2025
+    date_start: 2024-08-01
+    date_end: 2025-05-01
     summary: |2-
       - Transformed 8 static Excel sheets into real-time Google Looker dashboards with 20+ custom metrics, reducing manual reporting by 30%.
       - Built Python/SQL pipelines to scrape, unify, and integrate public notary records from 15+ U.S. states, improving match accuracy by 15%.
 
   - position: Global Business Strategy & Data Analyst
     company_name: The L’Oréal Group
-    date_start: Jan 2023
-    date_end: Jul 2023
+    date_start: 2023-01-01
+    date_end: 2023-07-01
     summary: |2-
       - Developed pricing strategies with Finance and Engineering; performed ETL using SQL and WebDriver across 12K SKUs.
       - Ran A/B tests on sample distribution across 10 countries to inform global promotional strategy for 2023.
 
   - position: CRM & Marketing Assistant
     company_name: The Estée Lauder Group
-    date_start: Jul 2022
-    date_end: Dec 2022
+    date_start: 2022-07-01
+    date_end: 2022-12-01
     summary: |2-
       - Supported 10+ global CRM campaigns using Salesforce, optimizing customer lifecycles and loyalty program activations.
       - Applied NLP to 4,000+ Instagram posts and uncovered 6 key engagement drivers, boosting engagement by 5.1%.
 
   - position: Data Analyst Intern
     company_name: TikTok Advertising
-    date_start: Mar 2021
-    date_end: Jul 2021
+    date_start: 2021-03-01
+    date_end: 2021-07-01
     summary: |2-
       - Analyzed media sales performance for 200+ advertisers by processing 80K+ records in SQL; derived insights into spend and engagement.
       - Automated data pipelines with SQL and Excel Macros, enabling self-service analytics and cutting manual hours by 33% weekly.
