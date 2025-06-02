@@ -161,11 +161,11 @@ skills:
       - name: User Empathy & Product Sense
         description: Intuition for user needs and product improvement
         percent: 85
-        icon: lightbulb
+        icon: heart-handshake
       - name: Bilingual (EN & CN)
         description: Professional fluency in English and Mandarin
         percent: 100
-        icon: globe
+        icon: languages
 
 # Awards
 awards:
