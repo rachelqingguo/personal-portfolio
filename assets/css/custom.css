@@ -1,0 +1,9 @@
+/* Make all text black */
+body, body * {
+  color: black !important;
+}
+
+/* Keep background white */
+body {
+  background-color: white !important;
+}
