@@ -73,10 +73,10 @@ education:
 
 # Work experience
 work:
-  - position: Incoming Analytics & Business Insight Intern
+  - position: Analytics & Business Insight Intern
     company_name: Amazon Whole Foods Market
     date_start: 2025-06-01
-    date_end: 2025-08-01
+    date_end: Current
     
 
   - position: Data Scientist (Practicum)
