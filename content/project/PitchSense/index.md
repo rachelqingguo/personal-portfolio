@@ -4,7 +4,7 @@ date: 2024-05-28
 external_link: https://github.com/rachelqingguo/PitchSense
 featured: true
 image:
-  filename: "project/PitchSense/featured1.png"
+  filename: "project/PitchSense/featured.png"
   preview_only: false
 tags:
   - AI
