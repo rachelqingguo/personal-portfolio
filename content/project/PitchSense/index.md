@@ -13,6 +13,6 @@ tags:
 
 ---
 
-**PitchSense** is an AI-powered speech analysis tool that provides real-time feedback on vocal delivery and pitch dynamics. Designed for speakers, presenters, and communicators, it uses machine learning and acoustic signal processing to evaluate tone, emotion, and modulation—offering insights to refine and enhance persuasive communication.
+PitchSense is an AI-powered speech analysis tool that provides real-time feedback on vocal delivery and pitch dynamics. Designed for speakers, presenters, and communicators, it uses machine learning and acoustic signal processing to evaluate tone, emotion, and modulation—offering insights to refine and enhance persuasive communication.
 
 <!--more-->
