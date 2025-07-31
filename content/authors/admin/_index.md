@@ -74,7 +74,7 @@ education:
 # Work experience
 work:
   - position: Analytics & Business Insight Intern
-    company_name: Amazon Whole Foods Market
+    company_name: Amazon
     date_start: 2025-06-01
     date_end: 
     
@@ -97,7 +97,7 @@ work:
 
   - position: CRM & Marketing Assistant
     company_name: The Estée Lauder Group
-    date_start: 2022-07-01
+    date_start: 20221-12-01
     date_end: 2022-12-01
     summary: |2-
       - Supported 10+ global CRM campaigns using Salesforce, optimizing customer lifecycles and loyalty program activations.
