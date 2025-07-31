@@ -97,7 +97,7 @@ work:
 
   - position: CRM & Marketing Assistant
     company_name: The Estée Lauder Group
-    date_start: 20221-12-01
+    date_start: 2021-12-01
     date_end: 2022-12-01
     summary: |2-
       - Supported 10+ global CRM campaigns using Salesforce, optimizing customer lifecycles and loyalty program activations.
