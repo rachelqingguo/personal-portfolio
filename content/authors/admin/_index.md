@@ -73,7 +73,7 @@ education:
 
 # Work experience
 work:
-  - position: Analytics & Business Insight Intern
+  - position: Marketing Analytics & Business Operation Intern
     company_name: Amazon
     date_start: 2025-06-01
     date_end: 
@@ -218,14 +218,18 @@ awards:
 
 ## About Me
 
-Hi, I’m Rachel Guo! I’m currently wrapping up my Master’s in Business Analytics at UC Davis, with a focus on using data and AI to solve real-world business problems. Before this, I studied international economics at Columbia University and have worked in both global companies like L’Oréal and Estée Lauder, as well as startups like TikTok and The Best Notary where I took on multiple responsibilities.
+Hi, I’m Rachel Guo! I’m a data and business analyst with experience across tech, retail, and consumer products, recently graduated from my Master’s in Business Analytics at UC Davis after studying economics at Columbia. I enjoy making sense of messy problems and translating data into insights that drive strategy and improvement.
 
-I’ve lived and worked across the U.S. (New York, San Francisco and San Diego), Paris, and Beijing, and traveled to over 25 countries—which has shaped how I approach problems with both structure and empathy. Some of my favorite experiences include volunteering in Tanzania and the Czech Republic, where I helped with youth education and cultural exchange programs.
+At Amazons, I analyzed 700K+ rows of data to uncover traffic patterns and guide new store launches. I also automated dashboards that cut manual reporting and led weekly performance deep dives to align retail, marketing, and merchandising teams.
 
-I co-created PitchSense, an AI tool that connects startup founders with investors, which was recognized with the Most Impactful Award at AgentHack — the largest agentic hackathon in the Bay Area. I also helped develop NeuroPolis, a disaster prediction and crisis response platform that earned 2nd runner-up awards at UC Davis’s AggieHacks. Whether it’s building dashboards, modeling campaign performance, or translating complex data into actionable insights, I’m driven to create tools that are not just intelligent, but genuinely useful.
+At L’Oréal, I designed A/B tests and modeling across 10 countries to find the most profitable sampling strategy, which shaped the company’s 2023 global plan. I also built dashboards for 21 regional markets to track sales drivers more effectively.
 
-Outside of work, I enjoy hiking, painting, reading, and traveling.  Feel free to check out my porfortlio for more!
+At Estée Lauder, I applied NLP and XGBoost to thousands of Instagram posts, identifying engagement drivers that boosted social reach by 5%. I also supported global CRM and loyalty programs through Salesforce.
 
+At TikTok Ads, I built self-service analytics tools with Excel VBA that reduced manual reporting by 33%. I also evaluated ad performance data for 200+ advertisers to generate insights on campaign engagement.
 
-[def]: https://www.linkedin.com/posts/rachel-guo0429_ai-smartcities-hackathon-activity-7321541042808262658-2h-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMuw3kBP8HF1sC7G-uA-jJgc47xQ4C2ETc
-[def2]: https://drive.google.com/file/d/1pGHWVuM_SKOoK05gF8TgQBE6qNhpvqYQ/view?usp=sharing
+At The Best Notary, I rebuilt legacy Excel reports into Looker dashboards and built SQL/Python pipelines to improve match accuracy by 17%. These tools gave product and ops teams clearer KPIs for decision-making.
+
+Outside of work, I co-created PitchSense, an AI fundraising tool that won “Most Impactful Award” at AgentHack 2025, and NeuroPolis, a disaster prediction platform recognized as a Top 3 finalist at UC Davis AggieHacks.
+
+👉 Currently exploring my next opportunity in data-driven strategy, growth, and continuous improvement. Let’s connect!
