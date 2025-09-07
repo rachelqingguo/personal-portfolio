@@ -73,7 +73,7 @@ education:
 
 # Work experience
 work:
-  - position: Marketing Analytics & Business Operation Intern
+  - position: Analytics & Operation Intern
     company_name: Amazon
     date_start: 2025-06-01
     date_end: 
@@ -97,7 +97,7 @@ work:
 
   - position: CRM & Marketing Assistant
     company_name: The Estée Lauder Group
-    date_start: 2021-12-01
+    date_start: 2021-11-01
     date_end: 2022-12-01
     summary: |2-
       - Supported 10+ global CRM campaigns using Salesforce, optimizing customer lifecycles and loyalty program activations.
@@ -105,7 +105,7 @@ work:
 
   - position: Data Analyst Intern
     company_name: TikTok Advertising
-    date_start: 2021-03-01
+    date_start: 2021-01-01
     date_end: 2021-07-01
     summary: |2-
       - Analyzed media sales performance for 200+ advertisers by processing 80K+ records in SQL; derived insights into spend and engagement.
